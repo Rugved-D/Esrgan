@@ -11,3 +11,9 @@
 *.npy
 
 myenv/
+
+*.pyc
+__pycache__/
+myenv/
+venv/
+.DS_Store
